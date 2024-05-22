@@ -1,4 +1,4 @@
-# 釣魚網站數據視覺化專案
+# 釣魚網站數據視覺化
 **論文資料視覺化分析**
 
 ## 專案描述
@@ -24,7 +24,7 @@
 1. clone此專案：
     ```bash
     git clone https://github.com/你的用戶名/釣魚網站數據視覺化專案.git
-    cd 釣魚網站數據視覺化專案
+    cd Data-Visualization
     ```
 2. 安裝所需套件：
     ```bash
@@ -33,23 +33,23 @@
 
 ### 使用方式
 1. 將你的數據文件放在專案目錄中。
-2. 執行 Python 生成視覺化圖表：
+2. 執行 Python 生成視覺化圖表。
 
 ## 結果示例
-以下是部分生成的圖表示例：
+以下是部分生成的圖表範例：
 
 ### 長條圖
-
+![image](https://github.com/Pang0826/Data-Visualization/blob/main/Bar-chart.png)  
 
 ### 散點圖
-
+![image](https://github.com/Pang0826/Data-Visualization/blob/main/Scatter-Plot.png)  
 
 ### 核密度估計圖
+![image](https://github.com/Pang0826/Data-Visualization/blob/main/KDE-Plot.png)  
 
-
-## 資料來源
-**UC Irvine Machine Learning Repository**  
-<https://archive.ics.uci.edu/>
+## 數據資料來源
+#### UC Irvine Machine Learning Repository  
+<https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset>
 
 ## 聯絡方式
 如有任何問題或疑慮，請聯絡我：
